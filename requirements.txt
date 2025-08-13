@@ -1,3 +1,9 @@
 Flask
 python-dotenv
 google-generativeai
+livekit
+livekit-agents
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+
+
